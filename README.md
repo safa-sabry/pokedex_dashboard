@@ -4,8 +4,8 @@ A Pokédex is a portable electronic encyclopedia in the Pokémon world that cata
 
 ## 🎬 Demo Video
 
+https://github.com/user-attachments/assets/9ed116d9-075a-48cb-a9f7-646fb2aa3f0f
 
-https://github.com/user-attachments/assets/e67a376d-76b4-4e46-a814-c82cd17932e9
 
 ## 🎯 Purpose
 
